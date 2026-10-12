@@ -1,0 +1,36 @@
+{
+  "name": "Your Name",
+  "tagline": "Web developer based in San Diego.",
+  "about": "Write two or three sentences about yourself here: what you build, what you enjoy, and what you are looking for.",
+  "projects": [
+    {
+      "title": "Weather Dashboard",
+      "description": "A responsive dashboard that shows a five-day forecast for any city.",
+      "tags": ["JavaScript", "API"],
+      "image": "projects/weather-dashboard.png",
+      "imageAlt": "Weather dashboard showing a five-day forecast",
+      "demo": "https://example.com",
+      "repo": "https://github.com/your-username/weather-dashboard"
+    },
+    {
+      "title": "Recipe Finder",
+      "description": "Search recipes by ingredient and save favorites in the browser.",
+      "tags": ["JavaScript", "CSS"],
+      "repo": "https://github.com/your-username/recipe-finder"
+    },
+    {
+      "title": "Budget Tracker",
+      "description": "A small app for logging expenses and viewing monthly totals.",
+      "tags": ["HTML", "CSS"],
+      "demo": "projects/budget-tracker/index.html"
+    }
+  ],
+  "files": [
+    { "name": "Resume (PDF)", "path": "files/resume.pdf", "note": "Updated October 2026" }
+  ],
+  "contact": [
+    { "label": "Email", "text": "you@example.com", "url": "mailto:you@example.com" },
+    { "label": "GitHub", "text": "github.com/your-username", "url": "https://github.com/your-username" },
+    { "label": "LinkedIn", "text": "linkedin.com/in/your-username", "url": "https://linkedin.com/in/your-username" }
+  ]
+}
